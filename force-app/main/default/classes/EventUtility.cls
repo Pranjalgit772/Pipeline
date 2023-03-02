@@ -12,8 +12,7 @@ public class EventUtility {
         }
         else{
             eventPri = 'Medium';
-        }
-        
+        }      
         return eventPri;
     }
 }
