@@ -4,7 +4,6 @@ public class EventUtility {
 
         String eventPri;
         if(String.isBlank(eventstatus) || eventStatus.length() > 2){
-
             return null;
         }
         if(eventstatus == 'CA'){
